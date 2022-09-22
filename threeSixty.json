@@ -1,0 +1,60 @@
+{
+  "version": "3.68.28773.0",
+  "course_id": "6EwYtAHeCPR_course_id",
+  "title": "Exo Storyline 1 ",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Exo 1"
+    },
+    {
+      "title": "Exo 2"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5YmON108hIg",
+      "title": "Glisser-Déposer",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "61cDTUvViLW",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5hEHqCZGTTa",
+      "title": "Diapo 1",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "62QWdHLhAnr",
+      "title": "Diapo 2",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6EqAEE2hKwI",
+      "title": "Diapo 3",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "5dJGIEFvDas",
+      "title": "Diapo 4",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "5a52sayHTtA",
+      "title": "Qu’en pensez-vous ? ",
+      "scene_index": "2.5"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 980,
+    "height": 560
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
